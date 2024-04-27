@@ -1,5 +1,5 @@
 # Task4: Scripts
-![eas]([https://static.wixstatic.com/media/4fb44a_bae8013f0855497fbdc6e065b5eaaa28~mv2.png/v1/fit/w_2500,h_1330,al_c/4fb44a_bae8013f0855497fbdc6e065b5eaaa28~mv2.png]))
+![eas](https://static.wixstatic.com/media/4fb44a_bae8013f0855497fbdc6e065b5eaaa28~mv2.png/v1/fit/w_2500,h_1330,al_c/4fb44a_bae8013f0855497fbdc6e065b5eaaa28~mv2.png)
 
 ## Step 1: Run the network_gateway.sh Script
     Part A: Run sudo bash network_gateway.sh
